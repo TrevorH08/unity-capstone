@@ -41,10 +41,10 @@ _The MVP so far is to have 1 functional level with working combat, and potential
 * 1.5 hrs 3:30pm - 5:00pm Add cloth physics and start on character skeleton
 
 #### 12/16/22
-1.5 hrs 5:00pm - 6:30pm tweak character skeleton/metarig and generate normal rig
+* 1.5 hrs 5:00pm - 6:30pm tweak character skeleton/metarig and generate normal rig
 
 #### 12/17/22
-2 hrs 4:00pm - 6:00pm researched rig movement with animation in blender
+* 2 hrs 4:00pm - 6:00pm researched rig movement with animation in blender
 
 ## Setup/Installation Requirements
 
