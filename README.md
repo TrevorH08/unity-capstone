@@ -27,6 +27,25 @@ _The MVP so far is to have 1 functional level with working combat, and potential
 #### Friday, 12/02
 * 3 hrs - 12/2/22 11:00am - 2:00pm Further work on Player Model
 
+#### 12/12/22
+* 1.5 hrs 10:30am - 12:00pm final touches on player model and starting weapon model
+* 3.6 hrs 1:20pm - 5:00pm Finish sword model, and begin texture mapping
+
+#### 12/13/22
+* 2.5 hrs 3:30pm - 5:00pm Finish texture mapping
+
+#### 12/14/22
+* 3 hrs 4:00pm - 7:00pm Research cloth and skeleton tutorials in blender
+
+#### 12/15/22
+* 1.5 hrs 3:30pm - 5:00pm Add cloth physics and start on character skeleton
+
+#### 12/16/22
+1.5 hrs 5:00pm - 6:30pm tweak character skeleton/metarig and generate normal rig
+
+#### 12/17/22
+2 hrs 4:00pm - 6:00pm researched rig movement with animation in blender
+
 ## Setup/Installation Requirements
 
 * _Clone from repo: ```https://github.com/TrevorH08/unity-capstone```_
